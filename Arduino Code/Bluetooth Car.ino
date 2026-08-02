@@ -77,7 +77,8 @@ void loop()
     {
     digitalWrite(m1a, LOW);
     digitalWrite(m1b, LOW);
-    digitalWrite(m2a, HIGH);     digitalWrite(m2b, LOW);
+    digitalWrite(m2a, HIGH);     
+    digitalWrite(m2b, LOW);
     }
   else if(val == 'H') //Backward Left
     {
