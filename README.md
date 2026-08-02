@@ -124,7 +124,7 @@ Steps:
 ## Uploading the Code
 
 1. Open Arduino IDE.
-2. Open `Bluetooth_Robot.ino`.
+2. Open `Bluetooth_Car.ino`.
 3. Select Arduino Uno.
 4. Select the correct COM Port.
 5. Upload.
