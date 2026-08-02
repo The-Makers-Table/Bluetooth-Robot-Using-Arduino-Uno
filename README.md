@@ -153,6 +153,6 @@ This project is released under the MIT License.
 
 ## Author
 
-Your Name
+Vivek Dhariwal
 
-GitHub:
+GitHub: https://github.com/The-Makers-Table
